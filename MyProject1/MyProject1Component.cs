@@ -16,7 +16,7 @@ namespace MyProject1
         /// new tabs/panels will automatically be created.
         /// </summary>
         public MyProject1Component()
-            : base("MyProject1", "Nickname",
+            : base("CHANGENAME", "Nickname",
                 "Description",
                 "Category", "Subcategory")
         {
